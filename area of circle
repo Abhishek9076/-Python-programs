@@ -1,0 +1,4 @@
+r =input("Enter the radius of circle: ")
+r =float(r)
+area =22/7*r*r
+print("The area of the circle is : ",area)
